@@ -1,0 +1,2 @@
+Winner Name, Card Score, Suit Score
+Name2, 40, 8
